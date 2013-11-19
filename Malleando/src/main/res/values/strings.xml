@@ -4,5 +4,8 @@
     <string name="app_name">Malleando</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_mall">mall</string>
+    <string name="title_activity_buscar_tienda">BuscarTienda</string>
+    <string name="title_activity_tienda">Tienda</string>
 
 </resources>
